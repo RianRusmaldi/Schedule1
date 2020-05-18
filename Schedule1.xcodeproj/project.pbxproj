@@ -15,6 +15,7 @@
 		22FCC337247176C200783247 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22FCC335247176C200783247 /* LaunchScreen.storyboard */; };
 		22FCC342247176C200783247 /* Schedule1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FCC341247176C200783247 /* Schedule1Tests.swift */; };
 		22FCC34D247176C200783247 /* Schedule1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FCC34C247176C200783247 /* Schedule1UITests.swift */; };
+		22FCC35B247187E700783247 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FCC35A247187E700783247 /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		22FCC348247176C200783247 /* Schedule1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Schedule1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22FCC34C247176C200783247 /* Schedule1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Schedule1UITests.swift; sourceTree = "<group>"; };
 		22FCC34E247176C200783247 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22FCC35A247187E700783247 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				22FCC333247176C200783247 /* Assets.xcassets */,
 				22FCC335247176C200783247 /* LaunchScreen.storyboard */,
 				22FCC338247176C200783247 /* Info.plist */,
+				22FCC35A247187E700783247 /* AddViewController.swift */,
 			);
 			path = Schedule1;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				22FCC32F247176C000783247 /* ViewController.swift in Sources */,
 				22FCC32B247176C000783247 /* AppDelegate.swift in Sources */,
+				22FCC35B247187E700783247 /* AddViewController.swift in Sources */,
 				22FCC32D247176C000783247 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
